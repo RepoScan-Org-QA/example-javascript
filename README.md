@@ -1,8 +1,6 @@
 hkhkcffgkjbxfsfdfxxcfdfdgxdggcxm,njkjk,mn,jmhbhkjbjmhknj# [:] Example Node Project
 
-An example node project to demonstrate [srcclr](https://www.srcclr.com) scans......////////,,,,,,l.lll,,,,///;;...,..
-cc..
-## Try me!
+An example node project to demonstrate [srcclr](https://www.srcclr.com) scans......//
 
 ```wwwww...........dddd
 brew tap srcclr/srcclr
